@@ -9972,7 +9972,7 @@ body.is-animated .animated-slider-wrapper .slider-more-button {
     transform: scale(1, 1);
 }
 
-.themegoods-navigation-wrapper .nav li.arrow > a:after
+/* .themegoods-navigation-wrapper .nav li.arrow > a:after
 {
 	text-decoration: inherit;
 	-webkit-font-smoothing: antialiased;
@@ -9989,12 +9989,12 @@ body.is-animated .animated-slider-wrapper .slider-more-button {
 	float: right;
 	margin-left: 8px;
 	line-height: 3.4em;
-}
+} */
 
-.themegoods-navigation-wrapper .nav li.arrow > a:after
+/* .themegoods-navigation-wrapper .nav li.arrow > a:after
 {
 	font-size: 9px;
-}
+} */
 
 .themegoods-navigation-wrapper .nav li ul,
 .themegoods-navigation-wrapper .nav li .elementor-megamenu-wrapper
