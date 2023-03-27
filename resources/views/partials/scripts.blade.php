@@ -1,5 +1,5 @@
 <script type='text/javascript' src='/public/assets/js/jquery.js'></script>
-<script type='text/javascript' src='/public/assets/js/plugins/elementor/assets/js/frontend.min.js'></script>
+
 <script type='text/javascript'
     src='/public/assets/js/plugins/before-after-image-comparison-slider-for-elementor/assets/js/jquery.event.move.js'></script>
 <script type='text/javascript'
@@ -21,7 +21,7 @@
 <script type='text/javascript' src='/public/assets/js/plugins/starto-elementor/assets/js/tweenmax.min.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/waypoints.min.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/jquery.stellar.min.js'></script>
-
+<script type='text/javascript' src='/public/assets/js/plugins/core/custom_plugins.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/core/custom.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/jquery.tooltipster.min.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/loftloader/assets/js/loftloader.min.js'></script>
@@ -34,6 +34,8 @@
 <script type='text/javascript' src='/public/assets/js/plugins/elementor/assets/lib/waypoints/waypoints.min.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/elementor/assets/lib/swiper/swiper.min.js'></script>
 <script type='text/javascript' src='/public/assets/js/plugins/elementor/assets/lib/share-link/share-link.min.js'></script>
+
+
 <script type='text/javascript'>
     jQuery(function($) {
         jQuery("img.lazy").each(function() {
@@ -75,7 +77,7 @@
     };
     /* ]]> */
 </script>
-<script type='text/javascript' src='js/plugins/core/custom_plugins.js'></script>
+
 <script type='text/javascript'>
     /* <![CDATA[ */
     var startoParams = {
@@ -172,3 +174,4 @@
         },
     };
 </script>
+<script type='text/javascript' src='/public/assets/js/plugins/elementor/assets/js/frontend.min.js'></script>

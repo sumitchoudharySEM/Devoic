@@ -706,7 +706,7 @@
                                                                 <img
                                                                     width="1131"
                                                                     height="732"
-                                                                    src="{{ asset('/public/assets/') }}upload/home2-design.png"
+                                                                    src="{{ asset('/public/assets/upload/home2-design.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
