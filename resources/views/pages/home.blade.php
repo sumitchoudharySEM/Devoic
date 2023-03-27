@@ -140,7 +140,7 @@
                                                                 <img
                                                                     width="1382"
                                                                     height="1302"
-                                                                    src="{{ asset('/public/assets/') }}upload/morph2.png"
+                                                                    src="{{ asset('/public/assets/upload/morph2.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -160,7 +160,7 @@
                                                                 <img
                                                                     width="1332"
                                                                     height="1240"
-                                                                    src="{{ asset('/public/assets/') }}upload/morph1.png"
+                                                                    src="{{ asset('/public/assets/upload/morph1.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -180,7 +180,7 @@
                                                                 <img
                                                                     width="622"
                                                                     height="776"
-                                                                    src="{{ asset('/public/assets/') }}upload/rotate-screen2.png"
+                                                                    src="{{ asset('/public/assets/upload/rotate-screen2.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -200,7 +200,7 @@
                                                                 <img
                                                                     width="420"
                                                                     height="347"
-                                                                    src="{{ asset('/public/assets/') }}upload/rotate-screen1-e1586416954814.png"
+                                                                    src="{{ asset('/public/assets/upload/rotate-screen1-e1586416954814.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -220,7 +220,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="440"
-                                                                    src="{{ asset('/public/assets/') }}upload/rotate-screen5-e1586416837240.png"
+                                                                    src="{{ asset('/public/assets/upload/rotate-screen5-e1586416837240.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -240,7 +240,7 @@
                                                                 <img
                                                                     width="732"
                                                                     height="622"
-                                                                    src="{{ asset('/public/assets/') }}upload/rotate-screen6.png"
+                                                                    src="{{ asset('/public/assets/upload/rotate-screen6.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -260,7 +260,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="262"
-                                                                    src="{{ asset('/public/assets/') }}upload/rotate-screen4-e1586417093837.png"
+                                                                    src="{{ asset('/public/assets/upload/rotate-screen4-e1586417093837.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -280,7 +280,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="264"
-                                                                    src="{{ asset('/public/assets/') }}upload/rotate-screen3-e1586417053241.png"
+                                                                    src="{{ asset('/public/assets/upload/rotate-screen3-e1586417053241.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -360,7 +360,7 @@
                                                                 <img
                                                                     width="220"
                                                                     height="220"
-                                                                    src="{{ asset('/public/assets/') }}upload/dot_pattern-e1586412100453.png"
+                                                                    src="{{ asset('/public/assets/upload/dot_pattern-e1586412100453.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -380,7 +380,7 @@
                                                                 <img
                                                                     width="220"
                                                                     height="220"
-                                                                    src="{{ asset('/public/assets/') }}upload/dot_pattern-e1586412100453.png"
+                                                                    src="{{ asset('/public/assets/upload/dot_pattern-e1586412100453.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -418,7 +418,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="30" height="30" src="{{ asset('/public/assets/') }}upload/blue_circle-e1586418332511.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="30" height="30" src="{{ asset('/public/assets/upload/blue_circle-e1586418332511.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -431,7 +431,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="20" height="20" src="{{ asset('/public/assets/') }}upload/yellow-circle-e1586418436618.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="20" height="20" src="{{ asset('/public/assets/upload/yellow-circle-e1586418436618.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -444,7 +444,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="60" height="48" src="{{ asset('/public/assets/') }}upload/triangle-orange-e1586417399163.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="60" height="48" src="{{ asset('/public/assets/upload/triangle-orange-e1586417399163.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -457,7 +457,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="60" height="47" src="{{ asset('/public/assets/') }}upload/orange_triangle-1-e1586418400616.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="60" height="47" src="{{ asset('/public/assets/upload/orange_triangle-1-e1586418400616.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -470,7 +470,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="60" height="60" src="{{ asset('/public/assets/') }}upload/triangle-yellow-e1586417371867.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="60" height="60" src="{{ asset('/public/assets/upload/triangle-yellow-e1586417371867.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -483,7 +483,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="25" height="25" src="{{ asset('/public/assets/') }}upload/circle_pink-e1586418389441.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="25" height="25" src="{{ asset('/public/assets/upload/circle_pink-e1586418389441.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -496,7 +496,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-image">
-                                                                <img width="30" height="30" src="{{ asset('/public/assets/') }}upload/blue_circle-e1586418332511.png" class="attachment-large size-large" alt="" loading="lazy" />
+                                                                <img width="30" height="30" src="{{ asset('/public/assets/upload/blue_circle-e1586418332511.png') }}" class="attachment-large size-large" alt="" loading="lazy" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -512,7 +512,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="476"
-                                                                    src="{{ asset('/public/assets/') }}upload/User-e1586416725875.png"
+                                                                    src="{{ asset('/public/assets/upload/User-e1586416725875.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -532,7 +532,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="476"
-                                                                    src="{{ asset('/public/assets/') }}upload/LevelDots-e1586417107379.png"
+                                                                    src="{{ asset('/public/assets/upload/LevelDots-e1586417107379.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -552,7 +552,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="236"
-                                                                    src="{{ asset('/public/assets/') }}upload/MonthlyData-e1586417234547.png"
+                                                                    src="{{ asset('/public/assets/upload/MonthlyData-e1586417234547') }}.png"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -572,7 +572,7 @@
                                                                 <img
                                                                     width="350"
                                                                     height="476"
-                                                                    src="{{ asset('/public/assets/') }}upload/Tasks-e1586416994402.png"
+                                                                    src="{{ asset('/public/assets/upload/Tasks-e1586416994402.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -592,7 +592,7 @@
                                                                 <img
                                                                     width="800"
                                                                     height="754"
-                                                                    src="{{ asset('/public/assets/') }}upload/morph4-e1586411766685.png"
+                                                                    src="{{ asset('/public/assets/upload/morph4-e1586411766685.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
@@ -612,7 +612,7 @@
                                                                 <img
                                                                     width="800"
                                                                     height="753"
-                                                                    src="{{ asset('/public/assets/') }}upload/morph3-e1586411014969.png"
+                                                                    src="{{ asset('/public/assets/upload/morph3-e1586411014969.png') }}"
                                                                     class="attachment-full size-full"
                                                                     alt=""
                                                                     loading="lazy"
