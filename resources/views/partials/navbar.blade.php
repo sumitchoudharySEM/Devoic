@@ -48,6 +48,20 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-346591d8" data-id="346591d8" data-element_type="column" data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}'>
+                            <div class="elementor-column-wrap elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                    
+                                    <div class="elementor-element elementor-element-37ba4f89 elementor_mobile_nav elementor-widget__width-auto elementor-hidden-desktop elementor-view-default elementor-widget elementor-widget-icon" data-id="37ba4f89" data-element_type="widget" data-settings='{"starto_ext_is_scrollme":"false","starto_ext_is_smoove":"false","starto_ext_is_parallax_mouse":"false","starto_ext_is_infinite":"false"}' data-widget_type="icon.default">
+                                        <div class="elementor-widget-container">
+                                            <div class="elementor-icon-wrapper">
+                                                <a class="elementor-icon" href="#"><i aria-hidden="true" class="fas fa-ellipsis-v"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 </section>
