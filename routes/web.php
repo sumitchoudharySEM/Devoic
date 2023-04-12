@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 
 
 //create routes view for home about and other pages
-Route::view('/','pages/home');
+Route::view('/','pages/home')->name('home');
 Route::view('/about','pages/about')->name('about');
-Route::view('/cources','pages/cources');
-Route::view('/programs','pages/programs');
+Route::view('/internships','pages/internships')->name('internships');
+Route::view('/services','pages/services')->name('services');
