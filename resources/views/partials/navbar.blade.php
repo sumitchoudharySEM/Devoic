@@ -24,20 +24,20 @@
                                                     <ul id="nav_menu32" class="nav">
                                                         <li class="menu-item menu-item-has-children current-menu-item current_page_item arrow">
 
-                                                            <a href="/">Home</a>
+                                                            <a href="{{ route('home') }}">Home</a>
                                                         </li>
 
                                                         <li class="menu-item elementor-megamenu   menu-item-home megamenu arrow">
 
-                                                            <a href="/about">About</a>
+                                                            <a href="{{ route('about') }}">About</a>
 
                                                         </li>
                                                         <li class="menu-item menu-item-has-children arrow elementor-megamenu megamenu arrow">
-                                                        <a href="/programs">Programs</a>
+                                                        <a href="{{ route('services') }}">Services</a>
                                                        
                                                         </li>
                                                         <li class="megamenu col4 menu-item menu-item-has-children arrow elementor-megamenu megamenu arrow">
-                                                        <a href="/cources">cource</a>
+                                                        <a href="{{ route('internships') }}">Internships</a>
                                                         </li>
                                                         
                                                     </ul>
