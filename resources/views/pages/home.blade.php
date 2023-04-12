@@ -320,7 +320,7 @@
                                                         data-widget_type="heading.default"
                                                     >
                                                         <div class="elementor-widget-container">
-                                                            <h2 class="elementor-heading-title elementor-size-default">The Next Big Thing</h2>
+                                                            <h2 class="elementor-heading-title elementor-size-default">Connect With Us!</h2>
                                                         </div>
                                                     </div>
                                                     <div
@@ -346,7 +346,8 @@
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-text-editor elementor-clearfix">
                                                                 <p class="p1">
-                                                                    Looking back, I guess I used to play-act all the time<strong>.</strong> For one thing, it meant I could live in a more interesting world than the one around me.&nbsp;
+                                                                    To boost yourself with the power of <strong>personalised learnings</strong> and <strong>exclusive mentorships</strong>
+                                                                    &nbsp;
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -632,8 +633,7 @@
                             <section
                                 class="elementor-section elementor-top-section elementor-element elementor-element-7f1cf2f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="7f1cf2f"
-                                data-element_type="section"
-                            >
+                                data-element_type="section" >
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row">
                                         <div
@@ -652,7 +652,7 @@
                                                         data-widget_type="heading.default"
                                                     >
                                                         <div class="elementor-widget-container">
-                                                            <h2 class="elementor-heading-title elementor-size-default">Design used to be the seasoning</h2>
+                                                            <h2 class="elementor-heading-title elementor-size-default">Build profile that resonates with industries</h2>
                                                         </div>
                                                     </div>
                                                     <div
@@ -664,7 +664,7 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                <p class="p1">From the dress you’re wearing to the smartphone you’re holding, it’s design. If you think good design is expensive, you should look at the cost of bad design.</p>
+                                                                <p class="p1">Our expert team helps you craft a compelling professional profile that aligns with industry expectations, showcasing your unique skills and experiences for maximum impact.</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -677,10 +677,10 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-button-wrapper">
-                                                                <a href="portfolio-classic.html" class="elementor-button-link elementor-button elementor-size-md" role="button">
+                                                                <a href="{{ route('about') }}" class="elementor-button-link elementor-button elementor-size-md" role="button">
                                                                     <span class="elementor-button-content-wrapper">
                                                                         <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fas fa-arrow-circle-down"></i> </span>
-                                                                        <span class="elementor-button-text">Purchase Starto Theme</span>
+                                                                        <span class="elementor-button-text">Know More</span>
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -747,7 +747,7 @@
                                                         data-widget_type="heading.default"
                                                     >
                                                         <div class="elementor-widget-container">
-                                                            <h1 class="elementor-heading-title elementor-size-default">Price & Plans</h1>
+                                                            <h1 class="elementor-heading-title elementor-size-default">Internship Programs</h1>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -760,8 +760,7 @@
                                 class="elementor-section elementor-top-section elementor-element elementor-element-5145618 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                 data-id="5145618"
                                 data-element_type="section"
-                                data-settings='{"stretch_section":"section-stretched","background_background":"gradient"}'
-                            >
+                                data-settings='{"stretch_section":"section-stretched","background_background":"gradient"}'>
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-row">
                                         <div
@@ -781,9 +780,9 @@
                                                     >
                                                         <div class="elementor-widget-container">
                                                             <div class="pricing-plan-switch-wrap">
-                                                                <span class="pricing-plan-switch-month">Bill month</span>
-                                                                <input type="checkbox" id="pricing-plan-switch" class="js-switch" data-switch-bg="#FFFFFF" data-switch-button="#6163DA" />
-                                                                <span class="pricing-plan-switch-year">Bill yearly</span>
+                                                                <span class="pricing-plan-switch-month">Apply to grab the uniquely designed and fully mentored internships ever.</span>
+                                                                {{-- <input type="checkbox" id="pricing-plan-switch" class="js-switch" data-switch-bg="#FFFFFF" data-switch-button="#6163DA" />
+                                                                <span class="pricing-plan-switch-year">Bill yearly</span> --}}
                                                             </div>
 
                                                             <div class="pricing-table-container">
