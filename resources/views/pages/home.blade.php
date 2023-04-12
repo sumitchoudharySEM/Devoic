@@ -5,7 +5,9 @@
 {{-- push styles --}}
 @push('styles')
     <style>
-
+        .pricing-table-wrapper{
+            margin-bottom: 4rem
+        }
     </style>
 @endpush
 
@@ -56,7 +58,7 @@
                                                         data-widget_type="heading.default"
                                                     >
                                                         <div class="elementor-widget-container">
-                                                            <h1 class="elementor-heading-title elementor-size-default">Design creates culture. Culture shapes values</h1>
+                                                            <h1 class="elementor-heading-title elementor-size-default">Innovation Controls Future</h1>
                                                         </div>
                                                     </div>
                                                     <div
@@ -80,7 +82,8 @@
                                                         data-widget_type="text-editor.default"
                                                     >
                                                         <div class="elementor-widget-container">
-                                                            <div class="elementor-text-editor elementor-clearfix"><p>Design creates culture. Culture shapes values</p></div>
+                                                            <div class="elementor-text-editor elementor-clearfix"><p>Your one stop place for e-Learning | Customized Skill Up Programs | Internships | Collaborations | IT Services.
+                                                            </p></div>
                                                         </div>
                                                     </div>
                                                     <div
@@ -94,7 +97,7 @@
                                                             <div class="elementor-button-wrapper">
                                                                 <a href="portfolio-classic.html" class="elementor-button-link elementor-button elementor-size-md elementor-animation-float" role="button">
                                                                     <span class="elementor-button-content-wrapper">
-                                                                        <span class="elementor-button-text">Download</span>
+                                                                        <span class="elementor-button-text">Join Community</span>
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -111,7 +114,7 @@
                                                             <div class="elementor-button-wrapper">
                                                                 <a href="about-2.html" class="elementor-button-link elementor-button elementor-size-md elementor-animation-float" role="button">
                                                                     <span class="elementor-button-content-wrapper">
-                                                                        <span class="elementor-button-text">Learn More</span>
+                                                                        <span class="elementor-button-text">Internships</span>
                                                                     </span>
                                                                 </a>
                                                             </div>
@@ -789,27 +792,28 @@
                                                                         <div class="inner-wrap">
                                                                             <div class="overflow-inner">
                                                                                 <div class="pricing-plan-wrap">
-                                                                                    <h2 class="pricing-plan-title">Individual</h2>
-
+                                                                                    <h2 class="pricing-plan-title">Web Development </h2>
                                                                                     <div class="pricing-plan-price-wrap">
-                                                                                        <h3 class="pricing-plan-price" data-price-month="$29" data-price-year="$199">$29</h3>
-                                                                                        <span class="pricing-plan-unit-month">/Month</span>
-                                                                                        <span class="pricing-plan-unit-year hide">/Year</span>
+                                                                                        <h3 class="pricing-plan-price" data-price-month="$29" data-price-year="$199">#3</h3>
+                                                                                        <span class="pricing-plan-unit-month">Projects</span>
+                                                                                        {{-- <span class="pricing-plan-unit-year hide">/Year</span> --}}
                                                                                     </div>
                                                                                 </div>
-
                                                                                 <div class="pricing-plan-content">
                                                                                     <ul class="pricing-plan-content-list">
-                                                                                        <li>50+ Predesigned Templates</li>
-                                                                                        <li>
-                                                                                            World class support
+                                                                                        <li>Hands on experience
                                                                                         </li>
-                                                                                        <li>
-                                                                                            Free lifetime updates
+                                                                                        <li>Interactive sessions
+                                                                                        </li>
+                                                                                        <li>Highly structured path
+                                                                                        </li>
+                                                                                        <li>Internship Certificate
+                                                                                        </li>
+                                                                                        <li>Letter of recommendation
                                                                                         </li>
                                                                                     </ul>
 
-                                                                                    <a class="pricing-plan-button button" href="#">Purchase</a>
+                                                                                    <a class="pricing-plan-button button" href="#">Apply Now</a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -818,27 +822,23 @@
                                                                         <div class="inner-wrap">
                                                                             <div class="overflow-inner">
                                                                                 <div class="pricing-plan-wrap">
-                                                                                    <h2 class="pricing-plan-title">Small Team</h2>
-
+                                                                                    <h2 class="pricing-plan-title">UI/UX</h2>
                                                                                     <div class="pricing-plan-price-wrap">
-                                                                                        <h3 class="pricing-plan-price" data-price-month="$69" data-price-year="$399">$69</h3>
-                                                                                        <span class="pricing-plan-unit-month">/Month</span>
-                                                                                        <span class="pricing-plan-unit-year hide">/Year</span>
+                                                                                        <h3 class="pricing-plan-price" data-price-month="$69" data-price-year="$399">#4</h3>
+                                                                                        <span class="pricing-plan-unit-month">Projects</span>
+                                                                                        {{-- <span class="pricing-plan-unit-year hide">/Year</span> --}}
                                                                                     </div>
                                                                                 </div>
-
                                                                                 <div class="pricing-plan-content">
                                                                                     <ul class="pricing-plan-content-list">
-                                                                                        <li>100+ Predesigned Templates</li>
-                                                                                        <li>
-                                                                                            World class support
-                                                                                        </li>
-                                                                                        <li>
-                                                                                            Free lifetime updates
-                                                                                        </li>
+                                                                                        <li>Unleash figma</li>
+                                                                                        <li>Build your portfolio</li>
+                                                                                        <li>Structured learning</li>
+                                                                                        <li>Internship certificate</li>
+                                                                                        <li>Letter of recommendation</li>
                                                                                     </ul>
 
-                                                                                    <a class="pricing-plan-button button" href="#">Purchase</a>
+                                                                                    <a class="pricing-plan-button button" href="#">Apply Now</a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -847,27 +847,90 @@
                                                                         <div class="inner-wrap">
                                                                             <div class="overflow-inner">
                                                                                 <div class="pricing-plan-wrap">
-                                                                                    <h2 class="pricing-plan-title">Company</h2>
-
+                                                                                    <h2 class="pricing-plan-title">App Development</h2>
                                                                                     <div class="pricing-plan-price-wrap">
-                                                                                        <h3 class="pricing-plan-price" data-price-month="$99" data-price-year="$699">$99</h3>
-                                                                                        <span class="pricing-plan-unit-month">/Month</span>
-                                                                                        <span class="pricing-plan-unit-year hide">/Year</span>
+                                                                                        <h3 class="pricing-plan-price" data-price-month="$99" data-price-year="$699">#3</h3>
+                                                                                        <span class="pricing-plan-unit-month">Projects</span>
                                                                                     </div>
                                                                                 </div>
-
                                                                                 <div class="pricing-plan-content">
                                                                                     <ul class="pricing-plan-content-list">
-                                                                                        <li>300+ Predesigned Templates</li>
-                                                                                        <li>
-                                                                                            World class support
-                                                                                        </li>
-                                                                                        <li>
-                                                                                            Free lifetime updates
-                                                                                        </li>
+                                                                                        <li>Explore android studio</li>
+                                                                                        <li>Interactive sessions</li>
+                                                                                        <li>Structured learning</li>
+                                                                                        <li>Internship Certificate</li>
+                                                                                        <li>Letter of recommendation</li>
                                                                                     </ul>
-
-                                                                                    <a class="pricing-plan-button button" href="#">Purchase</a>
+                                                                                    <a class="pricing-plan-button button" href="#">Apply Now</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="pricing-table-wrapper starto-three-cols pricing-1 tile scale-anm all smoove disable_tablet slide-up featured-pricing-plan" data-delay="450" data-move-y="60px">
+                                                                        <div class="inner-wrap">
+                                                                            <div class="overflow-inner">
+                                                                                <div class="pricing-plan-wrap">
+                                                                                    <h2 class="pricing-plan-title">Content & Marketing</h2>
+                                                                                    <div class="pricing-plan-price-wrap">
+                                                                                        <h3 class="pricing-plan-price" data-price-month="$99" data-price-year="$699">#6</h3>
+                                                                                        <span class="pricing-plan-unit-month">Projects</span>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="pricing-plan-content">
+                                                                                    <ul class="pricing-plan-content-list">
+                                                                                        <li>Leverage AI</li>
+                                                                                        <li>Build your Brand</li>
+                                                                                        <li>Industrial experience</li>
+                                                                                        <li>Internship Certificate</li>
+                                                                                        <li>Letter of recommendation</li>
+                                                                                    </ul>
+                                                                                    <a class="pricing-plan-button button" href="#">Apply Now</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="pricing-table-wrapper starto-three-cols pricing-2 tile scale-anm all smoove disable_tablet  slide-up" data-delay="450" data-move-y="60px">
+                                                                        <div class="inner-wrap">
+                                                                            <div class="overflow-inner">
+                                                                                <div class="pricing-plan-wrap">
+                                                                                    <h2 class="pricing-plan-title">Graphic Design</h2>
+                                                                                    <div class="pricing-plan-price-wrap">
+                                                                                        <h3 class="pricing-plan-price" data-price-month="$99" data-price-year="$699">#5</h3>
+                                                                                        <span class="pricing-plan-unit-month">Projects</span>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="pricing-plan-content">
+                                                                                    <ul class="pricing-plan-content-list">
+                                                                                        <li>Adobe Tools</li>
+                                                                                        <li>Industrial exposure</li>
+                                                                                        <li>Build your portfolio</li>
+                                                                                        <li>Internship Certificate</li>
+                                                                                        <li>Letter of recommendation</li>
+                                                                                    </ul>
+                                                                                    <a class="pricing-plan-button button" href="#">Apply Now</a>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="pricing-table-wrapper starto-three-cols last pricing-3 tile scale-anm all smoove disable_tablet slide-up featured-pricing-plan" data-delay="450" data-move-y="60px">
+                                                                        <div class="inner-wrap">
+                                                                            <div class="overflow-inner">
+                                                                                <div class="pricing-plan-wrap">
+                                                                                    <h2 class="pricing-plan-title">Java Development</h2>
+                                                                                    <div class="pricing-plan-price-wrap">
+                                                                                        <h3 class="pricing-plan-price" data-price-month="$99" data-price-year="$699">#2</h3>
+                                                                                        <span class="pricing-plan-unit-month">Projects</span>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="pricing-plan-content">
+                                                                                    <ul class="pricing-plan-content-list">
+                                                                                        <li>Java tools</li>
+                                                                                        <li>Hand on experience</li>
+                                                                                        <li>Expert review</li>
+                                                                                        <li>Internship Certificate</li>
+                                                                                        <li>Letter of recommendation</li>
+                                                                                    </ul>
+                                                                                    <a class="pricing-plan-button button" href="#">Apply Now</a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
